@@ -9,6 +9,6 @@
 
 if ( !defined( 'ABSPATH' ) ) exit;
 
+$LEONA_PLUGIN_SLUG = 'e20-classicpress-leona-lite';
+
 include_once( 'tweaks/tinymce.php' );
-
-
